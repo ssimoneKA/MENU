@@ -1,6 +1,26 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: ;
+    box-sizing: border-box
+}
 
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    background-color: rgb(212, 211, 209);
+    width: 100%;
+}
+
+.logo,.sociais{
+    width: 30%;
+}
+
+.menu;{
+    width: 50%;
 }
