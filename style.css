@@ -13,14 +13,14 @@
 }
 
 header{
-    background-color: rgb(212, 211, 209);
+    background-color: #000000;
     width: 100%;
 }
 
 .logo,.sociais{
-    width: 30%;
+    width: 25%;
 }
 
-.menu;{
+.menu{
     width: 50%;
 }
